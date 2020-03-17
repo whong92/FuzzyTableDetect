@@ -40,8 +40,8 @@ these lines along spaces.
 
 Similarity matrix:
 
-![alt text](https://raw.githubusercontent.com/whong92/FuzzyTableDetect/master/example.png?token=AHROYE44ARFYRZRKDFJWGNK6OFRKE "Similarity matrix")
+![alt text](https://raw.githubusercontent.com/whong92/FuzzyTableDetect/master/example.png "Similarity matrix")
 
 Extracted tables:
 
-![alt text](https://raw.githubusercontent.com/whong92/FuzzyTableDetect/master/example_out.png?token=AHROYE6DBOZRF2BF5AZZTYS6OFRS6 "Similarity matrix")
+![alt text](https://raw.githubusercontent.com/whong92/FuzzyTableDetect/master/example_out.png "Similarity matrix")
